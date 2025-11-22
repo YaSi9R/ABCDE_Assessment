@@ -1,0 +1,4 @@
+# Next.js build and cache
+.next/
+node_modules/
+dist/
